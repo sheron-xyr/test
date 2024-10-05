@@ -17,7 +17,7 @@ extension UTType {
 struct firstTryDocument: FileDocument {
     var text: String
 
-    init(text: String = "Hello, world!") {
+    init(text: String = "Hello, world! My name is Yirong Xu.") {
         self.text = text
     }
 
